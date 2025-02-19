@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Projeto para testar as habilidades em relação aos conhecimentos aprendidos durante o curso básico de programação do Programa Oracle One - Alura.
+Projeto para testar as habilidades em relação aos conhecimentos aprendidos durante o curso básico de programação do Programa Oracle One - Alura. Neste projeto será possível criar uma lista de amigos e efetuar sorteios aleatórios.
 
 ## 🚀 Começando
 
