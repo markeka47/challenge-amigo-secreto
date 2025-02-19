@@ -1,6 +1,6 @@
-# Título do projeto
+# Amigo Secreto
 
-Um parágrafo da descrição do projeto vai aqui
+Projeto para testar as habilidades em relação aos conhecimentos aprendidos durante o curso básico de programação do Programa Oracle One - Alura.
 
 ## 🚀 Começando
 
