@@ -7,7 +7,7 @@ Projeto para testar as habilidades em relação aos conhecimentos aprendidos dur
 ```
 1. Navegador;
 2. Link do site:
-- (https://challenge-amigo-secreto-red-six.vercel.app/)
+- ([https://challenge-amigo-secreto-red-six.vercel.app/])
 - (https://challenge-amigo-secreto-markeka47s-projects.vercel.app/)
 - (https://challenge-amigo-secreto-git-main-markeka47s-projects.vercel.app/)
 ```
