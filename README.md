@@ -2,15 +2,7 @@
 
 Projeto para testar as habilidades em relação aos conhecimentos aprendidos durante o curso básico de programação do Programa Oracle One - Alura. Neste projeto será possível criar uma lista de amigos e efetuar sorteios aleatórios.
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
 1. Navegador;
@@ -26,10 +18,11 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 ![image](https://github.com/user-attachments/assets/a9bbb0cd-92f0-4095-aeac-2dc214b3119f)
 
+![image](https://github.com/user-attachments/assets/c3a72d37-f546-483b-9662-b748f3a98c69)
 
 ## ✒️ Autores
 
-* **Marcos Santos** - *Trabalho Inicial* - [Alura]([https://github.com/markeka47])
+* **Marcos Santos** - ([https://github.com/markeka47])
 
 ## 🎁 Expressões de gratidão
 
