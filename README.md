@@ -24,25 +24,17 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 ## 📌 Algumas telas do site
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+![image](https://github.com/user-attachments/assets/a9bbb0cd-92f0-4095-aeac-2dc214b3119f)
+
 
 ## ✒️ Autores
 
-* **Marcos Santos** - *Trabalho Inicial* - [umdesenvolvedor]((https://github.com/markeka47))
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+* **Marcos Santos** - *Trabalho Inicial* - [Alura]([https://github.com/markeka47])
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
+* Obrigado a Alura e a Oracle por estarem dando a oportunidade de aprofundar-me na área de tecnologia. 
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Marcos Santos](https://gist.github.com/markeka47) 😊
